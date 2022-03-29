@@ -11,8 +11,9 @@ fun main(){
     println(details.age+1)
 
     var jane =username("misky","linda","mary","0789765677",'k')
-    println(jane.email)
-    println(jane.phoneNumber)
+    println(caroo.email)
+    println(caroo.phoneNumber)
+
 }
 
 
