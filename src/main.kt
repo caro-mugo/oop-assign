@@ -1,5 +1,5 @@
 fun main(){
-    var details=human("Caro",36,50)
+    var details=human("nancy",36,50)
     println(details.name)
     println(details.age)
     println(details.weight)
@@ -11,8 +11,8 @@ fun main(){
     println(details.age+1)
 
     var jane =username("misky","linda","mary","0789765677",'k')
-    println(caroo.email)
-    println(caroo.phoneNumber)
+    println(nancy.email)
+    println(nancy.phoneNumber)
 
 }
 
